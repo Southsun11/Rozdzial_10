@@ -1,4 +1,4 @@
-#include "stack.h"
+#include "..\Stos Bool\stack.h"
 #include <iostream>
 
 Stack::Stack()

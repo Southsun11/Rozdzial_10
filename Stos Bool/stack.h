@@ -1,5 +1,11 @@
 #pragma once
-typedef unsigned long Item;
+
+struct customer
+{
+	char fullname[35];
+	double payment;
+};
+typedef customer Item;
 class Stack
 {
 private:
